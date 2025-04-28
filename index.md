@@ -13,3 +13,11 @@ Where it's all over.
 # Necessary Pictures
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Code Explanation 
+``` markdown
+This is a properly formated image insert.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
